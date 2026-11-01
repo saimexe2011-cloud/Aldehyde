@@ -1,0 +1,8 @@
+{
+  "name": "Aldehyde",
+  "description": "ALDEHYDE AI — Intelligence That Evolves.\n\nALDEHYDE is a next-generation personal AI assistant designed to help you think, create, learn, and accomplish more.\n\nPowered by advanced AI technology, ALDEHYDE brings intelligent conversations, productivity, creativity, and personalization together in one futuristic platform.\n\nFeaturing a premium interface, smooth interactions, intelligent chat, and an evolving ecosystem of features, ALDEHYDE is designed to become more capable with every update.\n\nFrom everyday questions and coding assistance to creative projects and intelligent automation, ALDEHYDE is your personal gateway to the future of AI.\n\nThink Smarter. Create Freely. Evolve Continuously.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
